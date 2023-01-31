@@ -10,6 +10,12 @@ The AMX token is the utility token behind Alt Markets, providing benefits such a
 You can trade tokens on Uniswap V3 using Arbitrum or Ethereum networks, and track Alt Markets on CoinMarketCap or Dexscreener.
 The AMX contract address is 0xB2d948Be3a74ECCe80378D4093E6cD7f4dC1Cf9C on Arbitrum and Ethereum.
 
+## Supply & Distribution
+The current circulating supply is 10 million AMX.
+The maximum supply will be 1B AMX tokens.
+Every month, 10-25 million AMX is unlocked for fundraising, burns, staking rewards, additional liquidity, community events, or promotional purposes.
+The exact allocations will be determined and published every month.
+
 - [Etherscan](https://etherscan.io/token/0xb2d948be3a74ecce80378d4093e6cd7f4dc1cf9c)
 - [Arbiscan](https://arbiscan.io/token/0xb2d948be3a74ecce80378d4093e6cd7f4dc1cf9c)
 - [Dexscreener](https://dexscreener.com/arbitrum/0x0f35ce0467a1da831593a10f87a6690694300d0f)
